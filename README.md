@@ -1,6 +1,6 @@
 # GS_IOT
 
-###Integrantes
+### Integrantes
 integrantes do grupo
 
 - Augusto Milreu rm 98245
