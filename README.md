@@ -1,5 +1,8 @@
 # GS_IOT
 
+
+LINK VIDEO: https://youtu.be/Q_2Csrl39Hs
+
 ### Integrantes
 integrantes do grupo
 
